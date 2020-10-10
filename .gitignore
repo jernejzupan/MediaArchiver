@@ -1,0 +1,19 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+
+# Log
+*.log
+
+# Unit test / coverage reports
+.pytest_cache/
+
+# Development Documentation
+devlog.txt
+
+# Environments
+env/
+
+# Devtools
+.vscode/
+
+
